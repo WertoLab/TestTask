@@ -1,4 +1,4 @@
-#Инструкция по запуску тестового задания
+Инструкция по запуску тестового задания
 
 1)Перейти по ссылке: https://colab.research.google.com/drive/1Sonpl5m40sAl4OG9m1yaVfl_cTV5AQAU#scrollTo=5LHucFJ_PaPb
 
