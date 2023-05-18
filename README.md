@@ -1,5 +1,7 @@
 Инструкция по запуску тестового задания
+
 Видео - демонстрация инструкции https://drive.google.com/file/d/1dsW3666xRVh02qdMENoGy_6KZnJGMaYg/view?usp=sharing
+
 1)Перейти по ссылке: https://colab.research.google.com/drive/1Sonpl5m40sAl4OG9m1yaVfl_cTV5AQAU#scrollTo=5LHucFJ_PaPb
 
 2)Вас встретит описание решения<img width="1459" alt="Снимок экрана 2023-05-17 в 20 52 22" src="https://github.com/WertoLab/TestTask/assets/112986790/a6d938c7-30be-47fb-8c14-dd51c482c678">
